@@ -12586,3 +12586,130 @@ Are you sure?
 [2023.03.27-21.29.21:529][222]LogContentValidation: Display: Validating WidgetBlueprint /Game/LevelSchool/Start/BP/WidgetBP/Widget_Info2.Widget_Info
 [2023.03.27-21.30.05:952][571]BlueprintLog: New page: Compile Widget_Info
 [2023.03.27-21.30.06:096][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.03.27-21.32.20:927][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.03.27-21.32.20:931][231]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LevelSchool/Untitled.Untitled
+[2023.03.27-21.32.20:964][231]Cmd: MAP LOAD FILE="../../../../ПРОЕКТИЛЮХИ/ProjectSch/Content/LevelSchool/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.27-21.32.20:964][231]LightingResults: New page: Lighting Build
+[2023.03.27-21.32.20:964][231]LoadErrors: New page: Loading map: Untitled.umap
+[2023.03.27-21.32.21:142][231]LogWorld: UWorld::CleanupWorld for Doors, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-21.32.21:142][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-21.32.21:142][231]MapCheck: New page: Map Check
+[2023.03.27-21.32.21:142][231]LightingResults: New page: Lighting Build
+[2023.03.27-21.32.21:208][231]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-21.32.21:215][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.03.27-21.32.21:219][231]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-21.32.21:220][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-21.32.21:302][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.03.27-21.32.21:380][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.03.27-21.32.21:402][231]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.27-21.32.21:402][231]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.27-21.32.21:403][231]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.27-21.32.21:403][231]LogAIModule: Creating AISystem for world Untitled
+[2023.03.27-21.32.21:465][231]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.27-21.32.21:543][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.03.27-21.32.21:556][231]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.27-21.32.21:556][231]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,133ms to complete.
+[2023.03.27-21.32.21:556][231]LogFileHelpers: Loading map 'Untitled' took 0.592
+[2023.03.27-21.32.23:535][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.03.27-21.32.23:663][332]LogBlueprint: Error: [AssetLog] D:\ПРОЕКТИЛЮХИ\ProjectSch\Content\LevelSchool\Doors.umap: [Compiler] In use pin  Widget Info  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.03.27-21.32.23:664][332]LogBlueprint: Error: [AssetLog] D:\ПРОЕКТИЛЮХИ\ProjectSch\Content\LevelSchool\Doors.umap: [Compiler] In use pin  Widget Info  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.03.27-21.32.23:664][332]LogBlueprint: Error: [AssetLog] D:\ПРОЕКТИЛЮХИ\ProjectSch\Content\LevelSchool\Doors.umap: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.03.27-21.32.23:699][332]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LevelSchool/Doors.Doors
+[2023.03.27-21.32.23:700][332]Cmd: MAP LOAD FILE="../../../../ПРОЕКТИЛЮХИ/ProjectSch/Content/LevelSchool/Doors.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.27-21.32.23:700][332]LightingResults: New page: Lighting Build
+[2023.03.27-21.32.23:700][332]LoadErrors: New page: Loading map: Doors.umap
+[2023.03.27-21.32.23:702][332]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-21.32.23:703][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-21.32.23:703][332]MapCheck: New page: Map Check
+[2023.03.27-21.32.23:703][332]LightingResults: New page: Lighting Build
+[2023.03.27-21.32.23:777][332]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-21.32.23:781][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.03.27-21.32.23:785][332]LogWorld: UWorld::CleanupWorld for Doors, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-21.32.23:785][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-21.32.23:873][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.03.27-21.32.23:957][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.03.27-21.32.23:965][332]LogBlueprint: Error: [AssetLog] D:\ПРОЕКТИЛЮХИ\ProjectSch\Content\LevelSchool\Doors.umap: [Compiler] In use pin  Widget Info  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.03.27-21.32.23:965][332]LogBlueprint: Error: [AssetLog] D:\ПРОЕКТИЛЮХИ\ProjectSch\Content\LevelSchool\Doors.umap: [Compiler] In use pin  Widget Info  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.03.27-21.32.23:965][332]LogBlueprint: Error: [AssetLog] D:\ПРОЕКТИЛЮХИ\ProjectSch\Content\LevelSchool\Doors.umap: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.03.27-21.32.23:977][332]LogAudio: Display: Audio Device (ID: 1) registered with world 'Doors'.
+[2023.03.27-21.32.23:977][332]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.27-21.32.23:977][332]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.27-21.32.23:978][332]LogAIModule: Creating AISystem for world Doors
+[2023.03.27-21.32.24:055][332]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.27-21.32.24:631][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.03.27-21.32.24:649][332]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.27-21.32.24:649][332]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,134ms to complete.
+[2023.03.27-21.32.24:649][332]LogFileHelpers: Loading map 'Doors' took 0.950
+[2023.03.27-21.32.27:012][470]LogObjectTools: Deleting 1 worlds: /Game/LevelSchool/Doors.Doors
+[2023.03.27-21.32.27:013][470]LogObjectTools: Currently 15 active worlds: /Game/LevelSchool/Doors.Doors, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_20, /Engine/Transient.World_21, /Engine/Transient.World_24, /Engine/Transient.World_25, /Engine/Transient.World_27, /Engine/Transient.World_34, /Engine/Transient.World_35, /Engine/Transient.World_36, /Engine/Transient.World_40
+[2023.03.27-21.32.29:421][470]LogSlate: Window 'Unable to delete level' being destroyed
+[2023.03.27-21.32.29:459][470]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2023.03.27-21.32.30:227][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.03.27-21.32.30:401][511]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LevelSchool/Untitled.Untitled
+[2023.03.27-21.32.30:401][511]Cmd: MAP LOAD FILE="../../../../ПРОЕКТИЛЮХИ/ProjectSch/Content/LevelSchool/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.27-21.32.30:401][511]LightingResults: New page: Lighting Build
+[2023.03.27-21.32.30:401][511]LoadErrors: New page: Loading map: Untitled.umap
+[2023.03.27-21.32.30:404][511]LogWorld: UWorld::CleanupWorld for Doors, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-21.32.30:404][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-21.32.30:404][511]MapCheck: New page: Map Check
+[2023.03.27-21.32.30:404][511]LightingResults: New page: Lighting Build
+[2023.03.27-21.32.30:476][511]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.27-21.32.30:481][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.03.27-21.32.30:485][511]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-21.32.30:486][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-21.32.30:561][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.03.27-21.32.30:642][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.03.27-21.32.30:661][511]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.27-21.32.30:662][511]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.27-21.32.30:662][511]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.27-21.32.30:662][511]LogAIModule: Creating AISystem for world Untitled
+[2023.03.27-21.32.30:723][511]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.27-21.32.30:800][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.03.27-21.32.30:825][511]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.27-21.32.30:825][511]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,124ms to complete.
+[2023.03.27-21.32.30:825][511]LogFileHelpers: Loading map 'Untitled' took 0.425
+[2023.03.27-21.32.31:651][555]LogBlueprint: Error: [AssetLog] D:\ПРОЕКТИЛЮХИ\ProjectSch\Content\LevelSchool\Doors.umap: [Compiler] In use pin  Widget Info  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.03.27-21.32.31:651][555]LogBlueprint: Error: [AssetLog] D:\ПРОЕКТИЛЮХИ\ProjectSch\Content\LevelSchool\Doors.umap: [Compiler] In use pin  Widget Info  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.03.27-21.32.31:651][555]LogBlueprint: Error: [AssetLog] D:\ПРОЕКТИЛЮХИ\ProjectSch\Content\LevelSchool\Doors.umap: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.03.27-21.32.31:697][555]LogObjectTools: Deleting 1 worlds: /Game/LevelSchool/Doors.Doors
+[2023.03.27-21.32.31:697][555]LogObjectTools: Currently 15 active worlds: /Game/LevelSchool/Untitled.Untitled, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_20, /Engine/Transient.World_21, /Engine/Transient.World_24, /Engine/Transient.World_25, /Engine/Transient.World_27, /Engine/Transient.World_34, /Engine/Transient.World_35, /Engine/Transient.World_36, /Engine/Transient.World_40
+[2023.03.27-21.32.31:782][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.03.27-21.32.33:327][555]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.27-21.32.33:336][555]LogWorld: UWorld::CleanupWorld for Doors, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-21.32.33:336][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-21.32.33:347][555]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2023.03.27-21.32.33:347][555]LogWorld: UWorld::CleanupWorld for Doors, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-21.32.33:347][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-21.32.33:449][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.03.27-21.32.33:528][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.03.27-21.32.33:605][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.03.27-21.32.56:398][916]LogContentBrowser: Attempting asset rename: Untitled -> LVL_VOVA
+[2023.03.27-21.32.56:493][916]LogMetaData: Removing '/Game/LevelSchool/LVL_VOVA.LVL_VOVA_C' ref from Metadata '/Game/LevelSchool/Untitled.PackageMetaData'
+[2023.03.27-21.32.56:493][916]LogMetaData: Removing '/Game/LevelSchool/LVL_VOVA.SKEL_LVL_VOVA_C:ReceiveBeginPlay' ref from Metadata '/Game/LevelSchool/Untitled.PackageMetaData'
+[2023.03.27-21.32.56:493][916]LogMetaData: Removing '/Game/LevelSchool/LVL_VOVA.SKEL_LVL_VOVA_C:ReceiveTick' ref from Metadata '/Game/LevelSchool/Untitled.PackageMetaData'
+[2023.03.27-21.32.56:493][916]LogMetaData: Removing '/Game/LevelSchool/LVL_VOVA.SKEL_LVL_VOVA_C' ref from Metadata '/Game/LevelSchool/Untitled.PackageMetaData'
+[2023.03.27-21.32.56:623][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelSchool/LVL_VOVA" FILE="../../../../ПРОЕКТИЛЮХИ/ProjectSch/Content/LevelSchool/LVL_VOVA.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.27-21.32.56:700][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.03.27-21.32.56:726][916]LogSavePackage: Moving output files for package: /Game/LevelSchool/LVL_VOVA
+[2023.03.27-21.32.56:726][916]LogSavePackage: Moving '../../../../ПРОЕКТИЛЮХИ/ProjectSch/Saved/LVL_VOVA261C0A974AEF096EB2EE60A4CFC7E95F.tmp' to '../../../../ПРОЕКТИЛЮХИ/ProjectSch/Content/LevelSchool/LVL_VOVA.umap'
+[2023.03.27-21.32.56:744][916]LogFileHelpers: Saving map 'LVL_VOVA' took 0.122
+[2023.03.27-21.32.57:369][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.03.27-21.32.57:447][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.03.27-21.32.57:522][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.03.27-21.32.57:532][916]AssetCheck: New page: Asset Save: LVL_VOVA
+[2023.03.27-21.32.57:532][916]LogContentValidation: Display: Validating World /Game/LevelSchool/LVL_VOVA.LVL_VOVA
+[2023.03.27-21.33.11:113][693]LogContentBrowser: Attempting asset rename: LVL_VOVA -> LVL_Backend
+[2023.03.27-21.33.11:141][693]LogMetaData: Removing '/Game/LevelSchool/LVL_Backend.LVL_Backend_C' ref from Metadata '/Game/LevelSchool/LVL_VOVA.PackageMetaData'
+[2023.03.27-21.33.11:141][693]LogMetaData: Removing '/Game/LevelSchool/LVL_Backend.SKEL_LVL_Backend_C' ref from Metadata '/Game/LevelSchool/LVL_VOVA.PackageMetaData'
+[2023.03.27-21.33.11:141][693]LogMetaData: Removing '/Game/LevelSchool/LVL_Backend.SKEL_LVL_Backend_C:ReceiveBeginPlay' ref from Metadata '/Game/LevelSchool/LVL_VOVA.PackageMetaData'
+[2023.03.27-21.33.11:141][693]LogMetaData: Removing '/Game/LevelSchool/LVL_Backend.SKEL_LVL_Backend_C:ReceiveTick' ref from Metadata '/Game/LevelSchool/LVL_VOVA.PackageMetaData'
+[2023.03.27-21.33.11:241][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelSchool/LVL_Backend" FILE="../../../../ПРОЕКТИЛЮХИ/ProjectSch/Content/LevelSchool/LVL_Backend.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.27-21.33.11:426][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.03.27-21.33.11:457][693]LogSavePackage: Moving output files for package: /Game/LevelSchool/LVL_Backend
+[2023.03.27-21.33.11:457][693]LogSavePackage: Moving '../../../../ПРОЕКТИЛЮХИ/ProjectSch/Saved/LVL_BackendB65E8C3348FB5F0597E0618B102D16F0.tmp' to '../../../../ПРОЕКТИЛЮХИ/ProjectSch/Content/LevelSchool/LVL_Backend.umap'
+[2023.03.27-21.33.11:473][693]LogFileHelpers: Saving map 'LVL_Backend' took 0.233
+[2023.03.27-21.33.11:824][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.03.27-21.33.11:905][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.03.27-21.33.11:988][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.03.27-21.33.12:000][693]AssetCheck: New page: Asset Save: LVL_Backend
+[2023.03.27-21.33.12:000][693]LogContentValidation: Display: Validating World /Game/LevelSchool/LVL_Backend.LVL_Backend
